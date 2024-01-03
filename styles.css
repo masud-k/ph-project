@@ -68,4 +68,24 @@ button {
     font-size: 12px;
     font-family: 'Segoe UI', Arial;
     padding: 130px 890px;
+    font-weight: 700;
+}
+.sub-link h3 a {
+    font-size: 13px;
+    color: black;
+    font-weight: 400;
+}
+.f-container {
+    width: 280;
+    margin-left: 300px;
+    margin-top: 30vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.f-container img {
+    width: 250px;
+}
+p {
+    font-size: 20 px;
+    font-weight: 600;
+    word-spacing: 03px;
 }
