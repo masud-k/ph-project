@@ -9,14 +9,14 @@ body{
     background-color: #ffffff;
 }
 form {
-    background-color: #ffffff;
+    background-color: #f1eaea;
     position: absolute;
-    width: 300px;
+    width: 400px;
     height: 270px;
-    padding: 10px 05 px 20 px 05px;
-    margin: -10vh 850px;
+    padding: 10px 05px 20px 05px;
+    margin: -10vh 800px;
     border-radius: 05px;
-    box-shadow: 5px 5px 6px -7px;
+    box-shadow: 05px 05px 05px -05px
 }
 input[type='text'], input[type='password']{
     display: block;
@@ -29,6 +29,7 @@ input[type='text'], input[type='password']{
     color: black;
     font-family: 'Segoe UI';
     font-size: 15px;
+    width: 285px;
 }
 button {
     border: none;
@@ -37,8 +38,8 @@ button {
     border-radius: 05px;
     margin: auto;
     display: block;
-    width: 285px;
-    padding: 10px 0;
+    width: 360px;
+    padding: 15px 0;
     font-weight: 500;
     cursor: pointer;
 }
@@ -57,7 +58,7 @@ button {
 }
 .bnt2 {
     width: 180px;
-    font-size: 14px;
+    font-size: 16px;
     background-color: #42b72a;
     text-align: center;
 }
@@ -76,16 +77,16 @@ button {
     font-weight: 400;
 }
 .f-container {
-    width: 280;
+    width: 300px;
     margin-left: 300px;
     margin-top: 30vh;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .f-container img {
-    width: 250px;
+    width: 280px;
 }
 p {
-    font-size: 20 px;
+    font-size: 50 px;
     font-weight: 600;
     word-spacing: 03px;
 }
